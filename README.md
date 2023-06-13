@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=syxuan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 # 姓名
 
-您的姓名或 GitHub 使用者名稱。
+翁浩銘 Eason Weng
 
 ## 關於我
 
