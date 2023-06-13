@@ -9,14 +9,9 @@
 
 ## 專案
 
-列出您在 GitHub 上的一些重要專案。您可以使用鏈接指向各個專案的存儲庫，並提供簡要描述。
-
-- [專案名稱 1](link-to-repo1): 專案 1 的描述。
-- [專案名稱 2](link-to-repo2): 專案 2 的描述。
+- [搜狗-Search dog](link-to-repo1): 專案 1 的描述。
 
 ## 技術技能
-
-列出您的技術技能或專長，例如編程語言、框架、工具等。
 
 前端
 
@@ -58,11 +53,8 @@
 
 ## 聯絡方式
 
-提供您的聯絡方式，以便其他人可以與您取得聯繫。這可以是您的電子郵件地址、個人網站或社交媒體賬號。
-
+- 手機：0972177580
 - 電子郵件：weng8669@gmail.com
-- 個人網站：[example.com](https://example.com)
-- Twitter：[@yourusername](https://twitter.com/yourusername)
 
 
 
