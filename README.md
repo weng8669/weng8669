@@ -26,7 +26,7 @@
 
 提供您的聯絡方式，以便其他人可以與您取得聯繫。這可以是您的電子郵件地址、個人網站或社交媒體賬號。
 
-- 電子郵件：youremail@example.com
+- 電子郵件：weng8669@gmail.com
 - 個人網站：[example.com](https://example.com)
 - Twitter：[@yourusername](https://twitter.com/yourusername)
 
