@@ -30,13 +30,6 @@
 - 個人網站：[example.com](https://example.com)
 - Twitter：[@yourusername](https://twitter.com/yourusername)
 
-## 授權
-
-指定您的個人 GitHub 頁面的授權訊息，例如 MIT 授權。
-
----
-
-請根據您的個人偏好和需求，自定義此範例的內容和結構。您可以添加其他部分，如經歷、教育背景或任何您認為適合的資訊。讓您的 README 清晰、有吸引力且具有個人風格，以便其他人可以更好地了解您的專業和貢獻。
 
 
 <!--
