@@ -11,41 +11,35 @@
 
 ## 技術技能
 
-前端                                     雲端
-
- - HTML                                 - GCP
-                                        - AWS
-
+前端                                     
+- HTML                                 
 
 後端
-
 - Python
 - Flask
 - C++
 
 資料庫
-
 - MySQL
 - MongoDB
 - Redis
 
 深度學習
-
 - Tensorflow
 - PyTorch
 - Keras
 
+雲端
+- GCP
+- AWS
 
 其他
-
 - Git
 - Github
 - Docker
 - LineBot
 - OpenCV
 - Tableau
-
-
 
 ## 聯絡方式
 
