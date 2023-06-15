@@ -30,7 +30,7 @@
 
 - GCP, AWS
 
-- Git, Github, OpenCV, Docker, LineBot, OpenCV, Tableau, Linux
+- Git, Github, OpenCV, Docker, LineBot, Tableau, Linux
 
 
 ## Languages and Tools
