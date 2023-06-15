@@ -11,7 +11,7 @@
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 
-[![Gmail Badge](https://img.shields.io/badge/weng8669@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:weng8669@gmail.com)
+📫 How to reach me  [![Gmail Badge](https://img.shields.io/badge/weng8669@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:weng8669@gmail.com)
 
 
 
