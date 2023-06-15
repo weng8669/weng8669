@@ -20,7 +20,8 @@
 ## Contact Information
 
 - Phone：0972177580
-[![Gmail Badge](https://img.shields.io/badge/weng8669@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:weng8669@gmail.com)
+
+- Mail : [![Gmail Badge](https://img.shields.io/badge/weng8669@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:weng8669@gmail.com)
 
 
 
