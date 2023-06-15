@@ -20,7 +20,7 @@
 ## Contact Information
 
 - Phone：0972177580
-- Mail：weng8669@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/jessica1ku@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:weng8669@gmail.com)
 
 
 
