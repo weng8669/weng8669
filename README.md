@@ -15,7 +15,7 @@
 
 - GCP, AWS
 
-- Git, Github, Docker, LineBot, OpenCV, Tableau, Linux
+- Git, Github, OpenCV, Docker, LineBot, OpenCV, Tableau, Linux
 
 ## Contact Information
 
