@@ -14,31 +14,19 @@
 - HTML                                 
 
 後端
-- Python
-- Flask
-- C++
+- Python, Flask, C++
 
 資料庫
-- MySQL
-- MongoDB
-- Redis
+- MySQL, MongoDB, Redis
 
 深度學習
-- Tensorflow
-- PyTorch
-- Keras
+- Tensorflow, PyTorch, Keras
 
 雲端
-- GCP
-- AWS
+- GCP, AWS
 
 其他
-- Git
-- Github
-- Docker
-- LineBot
-- OpenCV
-- Tableau
+- Git, Github, Docker, LineBot, OpenCV, Tableau
 
 ## 聯絡方式
 
