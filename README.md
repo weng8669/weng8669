@@ -1,8 +1,6 @@
 <h1 align="center">Hey there, I'm <a  href="https://github.com/weng8669/">Eason Weng </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
-- 對於新事物和知識充滿渴望。好奇心驅使著我主動學習和不斷追求進步。
-
 ## Skill
                                     
 - HTML                                 
