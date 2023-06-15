@@ -26,7 +26,7 @@
 - GCP, AWS
 
 其他
-- Git, Github, Docker, LineBot, OpenCV, Tableau
+- Git, Github, Docker, LineBot, OpenCV, Tableau, Linux
 
 ## 聯絡方式
 
