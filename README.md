@@ -30,7 +30,7 @@
 
 - GCP, AWS
 
-- NLP、NLU
+- NLP, NLU
 
 - Git, Github, OpenCV, Docker, Nginx, LineBot, Tableau, Linux
 
