@@ -24,7 +24,7 @@
 
 - Python, Flask, Django, C++
 
-- MySQL, MongoDB, Redis
+- MySQL, MariaDB, MongoDB, Redis
 
 - Tensorflow, PyTorch, Keras, SK-learn
 
