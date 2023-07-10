@@ -22,7 +22,7 @@
                                     
 - HTML                                 
 
-- Python, Flask, C++
+- Python, Flask, Django, C++
 
 - MySQL, MongoDB, Redis
 
