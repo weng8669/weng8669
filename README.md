@@ -26,7 +26,7 @@
 
 - MySQL, MongoDB, Redis
 
-- Tensorflow, PyTorch, Keras
+- Tensorflow, PyTorch, Keras, SK-learn
 
 - GCP, AWS
 
