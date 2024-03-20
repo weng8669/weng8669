@@ -20,7 +20,7 @@
 
 ## Skill
                                     
-- HTML, CSS, JavaScript                                 
+- HTML, CSS, JavaScript, Vue.js, Quasar                                 
 
 - Python, C++
 
