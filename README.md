@@ -32,7 +32,11 @@
 
 - NLP, NLU
 
-- Git, GitHub, GitLab, OpenCV, Docker, Docker Swarm, K8S, Nginx, NPM, LineBot, Tableau, Linux, Prefect, Portainer, Airflow
+- Docker, Docker Swarm, K8S, Portainer
+
+- Prefect, Airflow
+
+- Linux, Git, GitHub, GitLab, OpenCV, Nginx, NPM, LineBot, Tableau
 
 
 ## Languages and Tools
