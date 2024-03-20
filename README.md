@@ -20,11 +20,11 @@
 
 ## Skill
                                     
-- HTML                                 
+- HTML, CSS, JavaScript                                 
 
-- Python, Flask, Django, C++
+- Python, C++
 
-- MySQL, MariaDB, MongoDB, Redis
+- MySQL, PostgresDB, MariaDB, MongoDB, Redis, CosmosDB, DynamoDB
 
 - Tensorflow, PyTorch, Keras, SK-learn
 
@@ -32,7 +32,7 @@
 
 - NLP, NLU
 
-- Git, Github, OpenCV, Docker, Nginx, LineBot, Tableau, Linux
+- Git, GitHub, GitLab, OpenCV, Docker, Nginx, LineBot, Tableau, Linux
 
 
 ## Languages and Tools
