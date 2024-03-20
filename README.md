@@ -17,26 +17,27 @@
 
 </div>
 
+I'm a Backend Engineer. 
 
 ## Skill
                                     
-- HTML, CSS, JavaScript, Vue.js, Quasar                                 
-
+- HTML, CSS, JavaScript, Vue.js, Quasar
+                            
 - Python, C++
-
+  
 - MySQL, PostgresDB, MariaDB, MongoDB, Redis, CosmosDB, DynamoDB
-
+  
 - Tensorflow, PyTorch, Keras, SK-learn
-
+  
 - GCP, AWS
-
+  
 - NLP, NLU
-
+  
 - Docker, Docker Swarm, K8S, Portainer
-
+  
 - Prefect, Airflow
-
-- Linux, Git, GitHub, GitLab, OpenCV, Nginx, NPM, LineBot, Tableau
+  
+- Linux, Git, GitHub, GitLab, CI/CD, OpenCV, Nginx, NPM, LineBot, Tableau
 
 
 ## Languages and Tools
